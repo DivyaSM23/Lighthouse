@@ -13,7 +13,7 @@ import { MenteeRegister } from "./components/Mentee/MenteeRegister";
 import { Menteelist } from "./components/Mentor/Menteelist";
 import { Mentorlist } from "./components/Mentee/Mentorlist";
 
-function App() {
+function Lighthouse() {
   return (
     <>
       <Router>
@@ -51,4 +51,4 @@ function App() {
   );
 }
 
-export default App;
+export default Lighthouse;
