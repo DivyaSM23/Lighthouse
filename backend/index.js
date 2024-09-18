@@ -34,9 +34,9 @@ app.use("/api/", require("./routes/register"));
 app.use("/api", require("./routes/get"));
 app.use("/api/", require("./routes/profile"));
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.send("This site is up,kindly go to a valid url");
 });
 
 app.listen(port, () => {
-  console.log(`iNotebook backend listening on port ${port}`);
+  console.log(`Lighthouse Server listening on port ${port}`);
 });
