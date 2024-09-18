@@ -1,6 +1,6 @@
 # LightHouse
 
-LightHouse is a website that helps you get mentorship from your career twins.It provides a platform for students to get mentorship from various people who have got successful in their respective careers. Students can learn from the experiences and build their careers in a better way.
+LightHouse is a website that helps you get mentorship from your career twins. It provides a platform for student to get mentorship from various people who have got successful in their respective careers. Students can learn from the experiences and build their careers in a better way.
 
 ## Installation
 
